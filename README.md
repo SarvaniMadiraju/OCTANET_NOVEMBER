@@ -1,2 +1,1 @@
-# csp
-SWAYAM SIDHI
+# SwayamSiddhi
